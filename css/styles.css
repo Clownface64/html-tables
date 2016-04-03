@@ -1,0 +1,78 @@
+/*body {
+	background-color: #ff4700;
+}*/
+#computer-spec{
+	font-family: 'Old Standard TT', serif;
+	margin: 100px 0;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+#computer-spec caption {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+#computer-spec th {
+	background-color: #3498db;
+	color: white;
+	padding: 5px 10px;
+	border: 1px solid #2980b9;
+}
+
+#computer-spec td:first-child {
+	font-weight: bold;
+}
+
+#computer-spec tr:nth-child(2n) {
+	background-color: #dddddd;
+}
+
+#computer-spec td {
+	padding: 2px 10px;
+	border: 1px solid #aaaaaa;
+}
+
+#computer-spec tr:hover {
+	background-color: #2387ca;
+	color: white;
+}
+
+#cpu-pro,
+#cpu-standard,
+#gd-standard,
+#gd-pro {
+	width: 97px;
+}
+
+#computer-spec td:nth-child(3),
+#computer-spec td:nth-child(4),
+#computer-spec td:nth-child(6),
+#computer-spec td:nth-child(7) {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
